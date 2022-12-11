@@ -8,13 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-Tianyu Zhu is currently a postdoctoral research fellow working with Prof. [Jian-Yun Nie](http://rali.iro.umontreal.ca/nie-site/jian-yun-nie-en/) in the Department of Computer Science and Operations Research at Université de Montréal. Prior to that, he received his Ph.D. degree in Mangement Science and Engineering from Tsinghua University in June 2022, supervised by Prof. [Guoqing Chen](https://www.sem.tsinghua.edu.cn/en/info/1219/7556.htm). And he worked with Doc. [Jiandong Ding](https://www.linkedin.com/in/jiandong-ding-60498833/) as a research intern at DAMO Academy, Alibaba for one year.
+Tianyu Zhu is currently a postdoctoral research fellow working with Prof. [Jian-Yun Nie](http://rali.iro.umontreal.ca/nie-site/jian-yun-nie-en/) in the Department of Computer Science and Operations Research at Université de Montréal. Prior to that, he received his Ph.D. degree in Mangement Science and Engineering from Tsinghua University in June 2022, supervised by Prof. [Guoqing Chen](https://www.sem.tsinghua.edu.cn/en/info/1219/7556.htm). And he worked with Doc. [Jiandong Ding](https://www.linkedin.com/in/jiandong-ding-60498833/) as a research intern at DAMO Academy, Alibaba from December 2020 to October 2021.
 
 **Email**: tianyu.zhu@umontreal.ca
 
 **Wechat**: zhuty16
 
-**<font color=red>I will be on job market in Oct. 2023. I am looking for a Research Scientist position in Industry.</font>**
+**<font color=red>I will be on job market in October 2023. I am looking for a Research Scientist position in Industry.</font>**
  
 Research Interests
 ======
