@@ -4,6 +4,7 @@ permalink: /publications/
 author_profile: true
 ---
 
+===
 * ***Tianyu Zhu***, Leilei Sun, Guoqing Chen. **Graph-based Embedding Smoothing for Sequential Recommendation.** IEEE Transactions on Knowledge and Data Engineering (TKDE) (2021). [Paper](https://ieeexplore.ieee.org/abstract/document/9405450?casa_token=H9BLiC5GkqoAAAAA:CDnkn4T_TlbDUPzMPVQZNata6XlS6t_precdKAZdH-Yymk4tBJNKrOknBU7cM9SaRFHJb_K84G8) [Code](https://github.com/zhuty16/GES)
   - This paper provides a general embedding smoothing framework (GES) for sequential recommendation, which performs graph convolutions on the hybrid item graph with both sequential and semantic item relations to improve representation learning in sequential models.
 * ***Tianyu Zhu***, Leilei Sun, Guoqing Chen. **Embedding Disentanglement in Graph Convolutional Networks for Recommendation.** IEEE Transactions on Knowledge and Data Engineering (TKDE) (2021). [Paper](https://ieeexplore.ieee.org/abstract/document/9449924?casa_token=6Hmtinsmm8wAAAAA:e2j--64R4J82dZMjKsQkHjj7TcfFGCKYPfNO8Q7d9EW5Ro7dWBpmQ5x8l6w7KzbbDiyR_Gp5TAg) [Code](https://github.com/zhuty16/CIGCN)
