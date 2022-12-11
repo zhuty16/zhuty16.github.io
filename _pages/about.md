@@ -19,9 +19,9 @@ Tianyu Zhu is currently a postdoctoral research fellow working with Prof. [Jian-
 Research Interests
 ---
 - Recommender Systems
--- Regularization with graphs in recommendation
--- Economics and consumer behavior in recommendation
--- Bias and Debias in recommendation
--- Sequentiality in recommendation
+  - Regularization with graphs in recommendation
+  - Economics and consumer behavior in recommendation
+  - Bias and Debias in recommendation
+  - Sequentiality in recommendation
 - Data Mining in Consumer Behavior
--- Live-streaming sales prediction
+  - Live-streaming sales prediction
