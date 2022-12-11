@@ -1,6 +1,5 @@
 ---
 layout: archive
-title: #"Publications"
 permalink: /publications/
 author_profile: true
 ---
@@ -20,15 +19,3 @@ Working Papers
 * ***Tianyu Zhu***, Jiandong Ding, Yansong Shi, Feng Ji, Guoqing Chen. **Mult-BiW: Multinomial Likelihood with Bi-Weighting for Controlling Popularity Bias in Item Recommendation.** 
 * ***Tianyu Zhu***, Yan Sun, Jiandong Ding, Guoqing Chen. **PCALF: Modeling Price and Contextual Effects in E-commerce Live-streaming Sales Prediction.** 
 * ***Tianyu Zhu***, Jian-Yun Nie. **Revisiting the Effects of Long and Short-term Interests in Sequential Recommendation.** 
- 
-<!--
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
--->
