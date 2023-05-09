@@ -14,6 +14,6 @@ author_profile: true
 
 Working Papers
 ===
-* ***Tianyu Zhu***, Jiandong Ding, Yansong Shi, Feng Ji, Guoqing Chen. **Mult-BiW: Multinomial Likelihood with Bi-Weighting for Controlling Popularity Bias in Item Recommendation.** 
+* ***Tianyu Zhu***, Jiandong Ding, Yansong Shi, Feng Ji, Guoqing Chen, Jian-Yun Nie. **Enhancing IPS with Multinomial Likelihood and Bi-Weighting for Popularity Debiasing in Item Recommendation.** 
+* ***Tianyu Zhu***, Yansong Shi, Yuan Zhang, Yihong Wu, Jian-Yun Nie. **Collaboration and Transition: Distilling Item Transitions into Multi-Query Self-Attention for Sequential Recommendation.** 
 * ***Tianyu Zhu***, Yan Sun, Jiandong Ding, Guoqing Chen. **PCALF: Modeling Price and Contextual Effects in E-commerce Live-streaming Sales Prediction.** 
-* ***Tianyu Zhu***, Jian-Yun Nie. **Revisiting the Effects of Long and Short-term Interests in Sequential Recommendation.** 
