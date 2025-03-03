@@ -13,7 +13,7 @@ Tianyu Zhu is currently a postdoctoral researcher working with Prof. [Junjie Wu]
 Research Interests
 ---
 - Recommender Systems
-  - Regularization with graphs in recommendation
+  - Graph and sequence in recommendation
+  - Bias and debias in recommendation
   - Economics and consumer behavior in recommendation
-  - Bias and Debias in recommendation
-  - Sequentiality in recommendation
+  - Algorithm security in recommendation
