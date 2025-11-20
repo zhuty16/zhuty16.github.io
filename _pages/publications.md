@@ -15,5 +15,9 @@ author_profile: true
 
 Working Papers
 ===
-* ***Tianyu Zhu***, Jiandong Ding, Yansong Shi, Guoqing Chen, Jian-Yun Nie. **Enhancing IPS with Multinomial Likelihood and Bi-Weighting for Popularity Debiasing in Item Recommendation.** 
+* Junjie Wu, Hongming Bi, ***Tianyu Zhu***. **You Can Have the Best of Both Worlds: Achieving Fairness in Click-Through Rate Prediction without Sacrificing Accuracy.**
+* ***Tianyu Zhu***, Jiandong Ding, Yansong Shi, Guoqing Chen, Jian-Yun Nie. **Enhancing IPS with Multinomial Likelihood and Bi-Weighting for Popularity Debiasing in Item Recommendation.**
+* ***Tianyu Zhu***, Qiutong Li, Xiao Han, Junjie Wu. **Exploiting Target-Surrogate Contrastive Performance Gaps for
+Membership Inference in Sequential Recommender Systems.**
+* Haoran Cui, Yuan Zuo, ***Tianyu Zhu***, Junjie Wu. **Attribute Semantic Evolution Modeling for Sequential Recommendation.** 
 * ***Tianyu Zhu***, Jian-Yun Nie, Fares Belkhiria. **Budget-Aware Basket Optimization Based on Decoupled Item Retrieval for Economic Next Basket Recommendation.** 
